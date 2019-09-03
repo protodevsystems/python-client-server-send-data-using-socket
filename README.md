@@ -1,4 +1,4 @@
-# Sending Data Between Clients and Server Using Socket and Threading
+# Sending Data Between 2 or More Python Scripts (Clients and Server) Using Socket and Threading
 
 These are python scripts for a server and a client.
 
